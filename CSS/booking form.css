@@ -1,0 +1,80 @@
+label{
+	display:block;
+	margin-bottom: 5px;
+	background-color:white;
+	color:black;
+	justify-content:center;
+	text-align: center;
+	margin-left: 30%;
+	width:50%;
+	border-radius: 40px;
+	margin-top: 30px;
+
+}
+*{
+	background-color:whitesmoke	;
+	color:white;
+}
+#flightbookingform{
+	background-color:black;
+} 
+#Booking-form{
+	max-width:400px;
+	margin:auto;
+	background-color:black;
+	padding: 50px;
+	width:100%;
+	border-radius: 50px;
+	box-shadow:0 0 670px rgba(1,0,1,1);
+	text-align: center;
+}
+
+#menu{
+	margin-top: 20px;
+}
+#menu button{
+      display: inline-block;
+      border: 1px solid black;
+      font-size: 10pt;
+      background-color:black;
+      margin-left: 100px;
+      border-radius: 20px;
+      width:100px;
+}
+#menu button:hover{
+	background-color:white;
+	width:100px;
+	color:black;
+	border:none;
+	transition:1s;
+	justify-content: center;
+}
+
+input{
+	width:50%;
+	padding: 8px;
+	margin-bottom: 15px;
+	border:1px solid black;
+	border-radius: 40px;
+	margin-left: 20%;
+	margin-top: 30px;
+	background-color: white;
+	color: black;
+}
+button{
+	background-color:green;
+	color:white;
+	padding: 10px;
+	border:none;
+	border-radius: 5px;
+	cursor: pointer;
+     margin-left: 20%;
+     margin-top: 40px;
+}
+button:hover{
+	background-color:darkred;
+	transition: 0.5s;
+}
+h2{
+	color:black;
+}
